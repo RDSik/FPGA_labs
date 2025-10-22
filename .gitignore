@@ -5,6 +5,6 @@
 !labs/**/*.m
 !labs/**/*.dat
 !project.tcl
+!Makefile
 !README.md
-!.Makefile
 !.gitignore

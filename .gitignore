@@ -1,0 +1,10 @@
+*
+!*/
+
+!labs/**/*.v
+!labs/**/*.m
+!labs/**/*.dat
+!project.tcl
+!README.md
+!.Makefile
+!.gitignore
